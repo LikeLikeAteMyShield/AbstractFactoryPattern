@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="standard_factory">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../standard_factory/out/production/standard_factory" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

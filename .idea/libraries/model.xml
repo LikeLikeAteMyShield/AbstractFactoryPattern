@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="model">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../standard_factory/out/production/standard_factory/com/jonnyc/standard_factory/model" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
